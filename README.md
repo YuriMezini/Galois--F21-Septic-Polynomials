@@ -1,0 +1,1 @@
+# Galois--F21-Septic-Polynomials
